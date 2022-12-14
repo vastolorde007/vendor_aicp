@@ -134,7 +134,8 @@ endif
 PRODUCT_PACKAGES += \
     AicpExtras \
     AicpThemesStub \
-    TilesWallpaper
+    TilesWallpaper \
+    LinotteFontOverlay
 
 # AICP Ad-block
 PRODUCT_PACKAGES += \

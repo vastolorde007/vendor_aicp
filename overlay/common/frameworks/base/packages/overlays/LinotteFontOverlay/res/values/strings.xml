@@ -1,0 +1,4 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Headline / Body font Linotte overlay -->
+    <string name="linotte_font_overlay" translatable="false">Linotte / Linotte</string>
+</resources>
